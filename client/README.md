@@ -1,3 +1,23 @@
+Some Screenshots
+1) Home
+![{CDA3EF07-3F29-4680-8421-F9A3E55118DC} png](https://user-images.githubusercontent.com/67777638/146758045-2ff3a803-3bea-4052-91ad-170038113c5b.jpg)
+3) Login
+![{8E6769E8-0E5B-4E1F-9442-EA6465213F56} png](https://user-images.githubusercontent.com/67777638/146758704-d11c3bad-3113-4d7a-9f47-5a0639d1432d.jpg)
+4) Register
+![{E5BD3777-861B-4A2A-B2A2-6F0270346AD5} png](https://user-images.githubusercontent.com/67777638/146758755-e9c5021c-3c0a-413c-9082-ca0b6cb5af5c.jpg)
+5) Post Editing
+![{34C8B913-D3A8-47E7-A32A-B1F415CA11D7} png](https://user-images.githubusercontent.com/67777638/146758155-220149e4-3f54-4d2f-a643-848a80bcefeb.jpg)
+6) Post Updating
+![{2415ED39-68EC-4F15-BB8D-BB894C52A1E6} png](https://user-images.githubusercontent.com/67777638/146758190-c727241a-bce1-4427-a9be-972fab98c24e.jpg)
+7) Profile Updating
+![{A1545DBF-929F-481F-B3D3-BF647FCF3121} png](https://user-images.githubusercontent.com/67777638/146758222-a2292d8f-5c85-4347-9c97-eebcd23ee784.jpg)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
